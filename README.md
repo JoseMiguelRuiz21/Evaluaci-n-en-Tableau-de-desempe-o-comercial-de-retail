@@ -1,6 +1,6 @@
 # Dashboard de desempeño comercial - Andes Retail Group
 
-Este proyecto desarrolla una solución analítica de inteligencia de negocios para evaluar el rendimiento comercial y la eficiencia del catálogo de una empresa de retail durante el periodo 2024-2025. El trabajo integra el procesamiento de datos en python con la creación de tableros de control interactivos en tableau public.
+Este proyecto desarrolla una solución analítica de inteligencia de negocios para evaluar el rendimiento comercial y la eficiencia del catálogo de una empresa de retail durante el periodo 2024-2025. El trabajo integra el procesamiento de datos en python con la creación de tableros de control interactivos en tableau public, visible en: https://public.tableau.com/app/profile/jos.miguel.ruiz/viz/Proyecto9Dashboarddedesempeocomercial_17818201490570/Dashboarddetalledeproductos 
 
 ## Estructura del repositorio
 
